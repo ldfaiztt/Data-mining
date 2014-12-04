@@ -1,4 +1,3 @@
 Data-mining
 ===========
-
-Sheng's data mining codes
+ **To be updated**
