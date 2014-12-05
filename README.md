@@ -3,20 +3,20 @@ Data mining
 
 Topics
 -------------
-MapReduce
-Link Analysis -- PageRank
-Locality-Sensitive Hashing
-Distance Measures
-Nearest Neighbors
-Frequent Itemsets
-Data Stream Mining
-Analysis of Large Graphs
-Recommender Systems
-Dimensionality Reduction
-Clustering
-Computational Advertising
-Support-Vector Machines
-Decision Trees
+1. MapReduce
+2. Link Analysis -- PageRank
+3. Locality-Sensitive Hashing
+4. Distance Measures
+5. Nearest Neighbors
+6. Frequent Itemsets
+7. Data Stream Mining
+8. Analysis of Large Graphs
+9. Recommender Systems
+10. Dimensionality Reduction
+11. Clustering
+12. Computational Advertising
+13. Support-Vector Machines
+14. Decision Trees
 
  **To be updated**
 
