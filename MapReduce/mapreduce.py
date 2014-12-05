@@ -1,3 +1,6 @@
+# Author: Sheng Li
+# Question 1
+
 from collections import defaultdict
 import math
 
