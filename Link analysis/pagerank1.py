@@ -1,3 +1,5 @@
+# Author: Sheng Li
+# Question 1
 import numpy as np
 
 # Adjacency matrix
