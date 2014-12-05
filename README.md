@@ -19,5 +19,7 @@ Support-Vector Machines
 Decision Trees
 
  **To be updated**
-Reference: 
+
+Reference
+----------------
 1. **[The Mining of Massive Datasets](http://mmds.org/)** by Jure Leskovec, Anand Rajaraman and Jeff Ullman
