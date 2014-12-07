@@ -18,3 +18,5 @@ Suppose we compute PageRank with β=0.85. Write the equations for the PageRanks 
 
 Assuming no "taxation," compute the PageRanks a, b, and c of the three pages A, B, and C, using iteration, starting with the "0th" iteration where all three pages have rank a = b = c = 1. Compute as far as the 5th iteration, and also determine what the PageRanks are in the limit. Then, identify the true statement from the list below.
 **Output**: pagerank3.py
+
+The implementation of the solutions in R is in **pagerank.r**.
