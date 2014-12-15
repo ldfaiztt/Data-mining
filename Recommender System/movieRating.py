@@ -22,6 +22,10 @@ normalRating = rawRating - userAvg
 print "Normalized user ratings: "
 print normalRating
 
+#Normalized user ratings: 
+#[[-2 -1  0  1  2]
+# [-1  0 -1  2  0]
+# [ 1  1  1 -1 -2]]
 
 movieAvg = np.array([[-2.0/3, 0, 0, 2.0/3, 0],
             [-2.0/3, 0, 0, 2.0/3, 0],
@@ -30,3 +34,8 @@ movieAvg = np.array([[-2.0/3, 0, 0, 2.0/3, 0],
 normalizedScore = normalRating - movieAvg
 print "Normalized movie scores: "
 print normalizedScore
+
+#Normalized movie scores: 
+#[[-1.33333333 -1.          0.          0.33333333  2.        ]
+# [-0.33333333  0.         -1.          1.33333333  0.        ]
+# [ 1.66666667  1.          1.         -1.66666667 -2.        ]]

@@ -34,3 +34,23 @@ for alpha in alphaVec:
 	print "cos(A,C): %s" % (cosAC)
 	print "cos(B,C): %s" % (cosBC)
 	print "\n",
+
+#Alpha: 0
+#cos(A,B): 0.666666666667
+#cos(A,C): 0.0
+#cos(B,C): 0.408248290464
+
+#Alpha: 0.5
+#cos(A,B): 0.721687836487
+#cos(A,C): 0.288675134595
+#cos(B,C): 0.666666666667
+
+#Alpha: 1
+#cos(A,B): 0.847318545736
+#cos(A,C): 0.617213399848
+#cos(B,C): 0.849836585599
+
+#Alpha: 2
+#cos(A,B): 0.946094540761
+#cos(A,C): 0.865180912697
+#cos(B,C): 0.952579344416
