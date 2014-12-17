@@ -2,9 +2,9 @@
 # Identify [x,y,z] that is orthonormal to [2/7,3/7,6/7] and 
 # x^2 + y^2 + z^2 = 1
 
-import numpy as NP
+import numpy as np
 
-M = NP.array([[0.702, -0.702, 0.117],
+M = np.array([[0.702, -0.702, 0.117],
               [-0.548, 0.401, 0.273],
               [-0.288, -0.490, 0.772],
               [0.975, 0.700, -0.675]])
@@ -23,8 +23,8 @@ V4 = (0.975)**2 + (0.700)**2 + (-0.675)**2
 print V4
 
 
-Y = NP.transpose(NP.array([2, 3, 6]))
-A = NP.dot(M, Y)
+Y = np.transpose(np.array([2, 3, 6]))
+A = np.dot(M, Y)
 print A
 
 
