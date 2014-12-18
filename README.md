@@ -9,8 +9,7 @@ Topics
 4. Recommender Systems; Dimensionality Reduction
 5. Clustering; Computational Advertising
 6. Support-Vector Machines; Decision Trees
-
- **To be updated**
+**To be updated**
 
 Reference
 ----------------
