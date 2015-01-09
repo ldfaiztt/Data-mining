@@ -13,3 +13,5 @@ Perform a minhashing of the data, with the order of rows: R4, R6, R1, R3, R5, R2
 Suppose we use locality-sensitive hashing with three bands of two rows each. Assume there are enough buckets available that the hash function for each band can be the identity function (i.e., columns hash to the same bucket if and only if they are identical in the band). Find all the candidate pairs. **Output**: candPair.py
 
 4) Find the set of 2-shingles for the "document": ABRACADABRA and also for the "document": BRICABRAC. How many 2-shingles do they have in common? What is the Jaccard similarity between the two documents"? **Output**: shingles.py
+
+5) How many distinct 3-shingles are there in the string "hello world" (excluding the quotes)? **Output**: shingleHello.py
