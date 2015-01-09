@@ -1,3 +1,5 @@
+# Author: Sheng Li
+
 str1 = "hello world"
 
 def shingle(str):
