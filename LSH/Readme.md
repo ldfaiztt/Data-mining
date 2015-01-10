@@ -15,3 +15,6 @@ Suppose we use locality-sensitive hashing with three bands of two rows each. Ass
 4) Find the set of 2-shingles for the "document": ABRACADABRA and also for the "document": BRICABRAC. How many 2-shingles do they have in common? What is the Jaccard similarity between the two documents"? **Output**: shingles.py
 
 5) How many distinct 3-shingles are there in the string "hello world" (excluding the quotes)? **Output**: shingleHello.py
+
+6) We have an LSH family h of (d1,d2,0.6,0.4) hash functions. We can use three functions from h and the AND-construction to form a (d1,d2,w,x) family, and we can use two functions from h and the OR-construction to form a (d1,d2,y,z) family. Calculate w, x, y, and z. **Output**: lshAndOr.py
+
