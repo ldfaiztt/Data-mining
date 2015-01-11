@@ -18,3 +18,5 @@ Suppose we use locality-sensitive hashing with three bands of two rows each. Ass
 
 6) We have an LSH family h of (d1,d2,0.6,0.4) hash functions. We can use three functions from h and the AND-construction to form a (d1,d2,w,x) family, and we can use two functions from h and the OR-construction to form a (d1,d2,y,z) family. Calculate w, x, y, and z. **Output**: lshAndOr.py
 
+7) There are 8 strings that represent sets: s1 = abcef; s2 = acdeg; s3 = bcdefg; s4 = adfg; s5 = bcdfgh; s6 = bceg; s7 = cdfg; s8 = abcd. The upper limit on Jaccard distance is 0.2, and we index the strings based on symbols appearing in the prefix. For each of s1, s3, and s6, determine how many other strings that string will be compared with, if it is used as the probe string. **Output**: jaccard.py
+
