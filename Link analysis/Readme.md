@@ -21,6 +21,6 @@ Assuming no "taxation," compute the PageRanks a, b, and c of the three pages A, 
 
 **pagerank.r** implements the solutions for Q1-Q3 in R.
 
-4) Consider the link graph below. Construct the link matrix L based on the HITS algorithm. Then, begin by assuming the hubbiness of each node is 1; that is, the vector h is (the transpose of) [1,1,1,1]. Compute an estimate of the authority vector a=LTh, and normalize a by dividing all values so the largest value is 1. Compute an estimate of the hubbiness vector h=La, and normalize h by dividing all values so the largest value is 1. Repeat the steps. Identify the final estimates. **Output**: pagerank4.py
+4) Consider the link graph below. Construct the link matrix L based on the HITS algorithm. Then, begin by assuming the hubbiness of each node is 1; that is, the vector h is (the transpose of) [1,1,1,1]. Compute an estimate of the authority vector a = LTh, and normalize a by dividing all values so the largest value is 1. Compute an estimate of the hubbiness vector h = La, and normalize h by dividing all values so the largest value is 1. Repeat the steps. Identify the final estimates. **Output**: pagerank4.py
 
 ![pagerank4.jpg](https://github.com/shngli/Data-mining/blob/master/Link%20analysis/pagerank4.jpg)
